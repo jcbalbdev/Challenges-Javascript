@@ -3,7 +3,7 @@
 */
 
 function barajear(cartas){
-  for(let i =  cartas.lenght-1;i>0;i--){
+  for(let i =  cartas.length-1;i>0;i--){
   let j = Math.floor(Math.random()*(i+1));
 
   [cartas[i],cartas[j]]=[cartas[j],cartas[i]];

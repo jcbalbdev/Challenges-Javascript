@@ -28,3 +28,8 @@ Este es mi proyecto personal donde subo problemas que voy resolviendo con el len
 
 ### **11.**[**`Escribe un programa que barajee el contenido de un array de cartas.`**](https://github.com/jcbalbdev/Challenges-Javascript/blob/main/javascript/jcbalbdev/challenge/challenge11.js) **``24/07/24``**
 
+### **12.**[**`Escribe un programa que asigne estudiantes a grupos de manera aleatoria.`**](https://github.com/jcbalbdev/Challenges-Javascript/blob/main/javascript/jcbalbdev/challenge/challenge12.js) **``24/07/24``**
+
+### **13.**[**`Escribe un programa que me muestre todos los elementos de una lista que cumplan una condicion dada.`**](https://github.com/jcbalbdev/Challenges-Javascript/blob/main/javascript/jcbalbdev/challenge/challenge13.js) **``24/07/24``**
+
+### **14.**[**`Escribe un programa que me diga si hay algun elemento de una lista que cumpla una condicion dada.`**](https://github.com/jcbalbdev/Challenges-Javascript/blob/main/javascript/jcbalbdev/challenge/challenge14.js) **``24/07/24``**
