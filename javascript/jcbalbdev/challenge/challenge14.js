@@ -1,5 +1,5 @@
 /* 
-* Escribe un programa que me diga si hay algun elemento de una lista que cumpla una condicion dada.
+* Escribe un programa que diga si hay algun elemento de una lista que cumpla una condicion dada.
 */
 
 function hayAlgun(elemento,condicion){

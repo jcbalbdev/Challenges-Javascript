@@ -1,5 +1,5 @@
 /* 
-* Escribe un programa que me muestre todos los elementos de una lista que cumplan una condicion dada
+* Escribe un programa que muestre todos los elementos de una lista que cumplan una condicion dada
 */
 function filtraPorTipo(listaPokemones,insertaTipo){
   let pokemonesDeTipo = listaPokemones.filter(insertaTipo);
